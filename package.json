@@ -27,7 +27,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "$env:CI = 'false'; react-scripts build",
+    "build": "powershell -Command \"[System.Environment]::SetEnvironmentVariable('CI', 'false'); react-scripts build\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
