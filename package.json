@@ -54,6 +54,5 @@
     "eslint": "^8.6.0",
     "gh-pages": "^3.2.3",
     "sass": "^1.58.3"
-  },
-  "packageManager": "yarn@4.7.0"
+  }
 }
