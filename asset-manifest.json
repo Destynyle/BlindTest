@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Destynyle/BlindTest/static/css/main.1383052c.css",
-    "main.js": "/Destynyle/BlindTest/static/js/main.67b85c55.js",
-    "index.html": "/Destynyle/BlindTest/index.html",
-    "main.1383052c.css.map": "/Destynyle/BlindTest/static/css/main.1383052c.css.map",
-    "main.67b85c55.js.map": "/Destynyle/BlindTest/static/js/main.67b85c55.js.map"
+    "main.css": "/BlindTest/static/css/main.1383052c.css",
+    "main.js": "/BlindTest/static/js/main.2f942406.js",
+    "index.html": "/BlindTest/index.html",
+    "main.1383052c.css.map": "/BlindTest/static/css/main.1383052c.css.map",
+    "main.2f942406.js.map": "/BlindTest/static/js/main.2f942406.js.map"
   },
   "entrypoints": [
     "static/css/main.1383052c.css",
-    "static/js/main.67b85c55.js"
+    "static/js/main.2f942406.js"
   ]
 }
